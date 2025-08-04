@@ -59,11 +59,6 @@ Purpose: Evaluate staff sufficiency against patient volume and outcomes.
 - Outcome comparison by hospital
 - Weekly specialist distribution trends
 
-### 3. Readmission Risk & Outcome Intelligence (in progress)
-Purpose: Identify repeat visit patterns and clinical outcome trends.
-- Repeat visits within 72 hours
-- Scatter: Wait time vs readmission
-- Table of high-risk patients
 
 ## Tools Used
 - Power BI (Data Model + Visuals)  
